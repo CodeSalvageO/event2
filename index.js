@@ -8,4 +8,5 @@ function save() {
 }
 console.log(user);
 console.log(message);
- 
+print_r(user);
+print_r(message);
