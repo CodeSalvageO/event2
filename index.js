@@ -6,5 +6,6 @@ function save() {
  user.push(userInput.value);
  message.push(messageInput.value);
 }
-
+console.log(user);
+console.log(message);
  
